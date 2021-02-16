@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse
 ![](img/logo.png)
 
-**Course Date:** 26.09.1999  
+**Course Date:** 15.02.2021  
 **Name:** Dzenit  
 **Surname:** Vildic  
 **Email:** dzenit6@gmail.com  
