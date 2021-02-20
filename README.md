@@ -13,10 +13,10 @@
    Write a function about how long these products holud be used later.
    
    
-## Requirements
+## Libraries
 ```
-Numpy
-Pandas
+NumPy library 
+Pandas library 
 
 ```
 ---
