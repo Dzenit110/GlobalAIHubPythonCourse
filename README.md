@@ -7,14 +7,17 @@
 **Email:** dzenit6@gmail.com  
 
 
-## Project Name
-Description of your project.
-
+## Recipe Application
+   Enter 3 recipes. Create a separate class for each recipe.
+   Identify the products used in this recipe using init () method.
+   Write a function about how long these products holud be used later.
+   
+   
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Numpy
+Pandas
+
 ```
 ---
 
