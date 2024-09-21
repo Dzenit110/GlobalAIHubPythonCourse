@@ -23,7 +23,7 @@ Pandas library
 
 ### Certification
 ![](img/certificate_ex.png)
-
+<br><br>
 🧰 Languages & Tools <br><br>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"> &nbsp; &nbsp; 
