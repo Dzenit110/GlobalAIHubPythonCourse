@@ -27,6 +27,9 @@ Pandas library
 🧰 Languages & Tools <br><br>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"> &nbsp; &nbsp; 
-<img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code">
+<img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas">
+
 
 
